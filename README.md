@@ -21,15 +21,8 @@ I work on biostatistical methods for health data, with interests in survival ana
 - [RUC_STAT-](https://github.com/CherryQii/RUC_STAT-)  
   Statistical notebooks and coursework from epidemiology, health statistics, and applied data analysis.
 
-## Tools
-
-R · Python · Jupyter · LaTeX · Git · Astro
-
-## Writing
-
-I keep notes on statistics, research papers, coding workflows, and life observations. My personal website is being rebuilt with Astro as a lightweight research and writing archive.
-
 ## Contact
 
 - Email: [qichenrui@connect.hku.hk](mailto:qichenrui@connect.hku.hk)
 - GitHub: [@CherryQii](https://github.com/CherryQii)
+- Personal Website: [cr-qi.com](https://cr-qi.com)
